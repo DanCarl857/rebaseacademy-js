@@ -56,7 +56,6 @@ const COLOR_RED = "#ff0000";
 const COLOR_GREEN = "#00ff00";
 const COLOR_BLUE = "#0000ff";
 
-
 // Some good rules to follow
 // - use human readable names like userName, firstName
 // - avoid abbreviations like let a, or let b
@@ -68,3 +67,8 @@ const COLOR_BLUE = "#0000ff";
 // copy the value of name into admin
 // show the value of name, admin and age in the console.
 // hint: you show values in the console using console.log
+let name, age1;
+name = "Jack";
+age1 = 34;
+let admin = name;
+console.log(name, admin, age);
