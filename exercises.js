@@ -18,3 +18,25 @@
 // Write a function to print a chess board of size n
 // e.g if n is 8 it should print an 8x8 board. User # to represent black squares and ' '
 // to represent white squares
+//
+//
+// 1. Build your own version of the movies app using the
+// star wars api found here: https://swapi.tech/
+// - It should have 3 buttons: people, planets and starships
+// - Clicking on each button fetches the data for either peopel, planets or starships
+// Submission: Github link to your PR containing your HTML, CSS and JS changes
+//  - a link to the hosted site.
+//
+//
+//  2. Update our movie app to show all movies once the app loads before the user
+//  can search.
+//
+//  3. Update the movie app to show details for a clicked movie. Feel free to be creative
+//  with the design
+//
+//  Submission for 2 & 3:
+//  - Github link to changes
+//  - link to hosted app
+//
+//  4. Update the tic-tac-toe game so that it can keep track of scores
+//  4.a. Add an end game button
